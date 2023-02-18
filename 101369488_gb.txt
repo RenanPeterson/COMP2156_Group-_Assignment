@@ -1,0 +1,8 @@
+Student Name: Renan Peterson Dias Batista
+Student ID: 101369488
+Student Course: T141
+COMP: 2156 / CRN: 50734
+
+Classes time: 
+- Lecture: Monday from 6pm to 8pm
+- Lab Class: Wednesday from 6pm to 8pm
